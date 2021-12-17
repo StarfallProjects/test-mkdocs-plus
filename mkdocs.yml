@@ -1,8 +1,9 @@
 site_name: Test MkDocs Material Plus
 site_description: A test site and repo, containing MkDocs with the Material Insiders theme, Vale, Alex, 
+repo_url: https://github.com/StarfallProjects/test-mkdocs-plus
 theme:
   name: material
 nav:
-  Home: index.md
-  Create the site: create-site.md
-  Set up the repo: create-repo.md
+  - Home: index.md
+  - Create the site: create-site.md
+  - Set up the repo: create-repo.md
