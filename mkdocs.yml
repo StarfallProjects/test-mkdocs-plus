@@ -5,3 +5,4 @@ theme:
 nav:
   Home: index.md
   Create the site: create-site.md
+  Set up the repo: create-repo.md
