@@ -1,0 +1,7 @@
+site_name: Test MkDocs Material Plus
+site_description: A test site and repo, containing MkDocs with the Material Insiders theme, Vale, Alex, 
+theme:
+  name: material
+nav:
+  Home: index.md
+  Create the site: create-site.md
