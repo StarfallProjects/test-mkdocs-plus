@@ -1,1 +1,0 @@
-https://docs.digitalocean.com/products/app-platform/languages-frameworks/python/
